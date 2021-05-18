@@ -1,0 +1,6 @@
+255  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+4096 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+9663 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+250  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3252 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+21923 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 

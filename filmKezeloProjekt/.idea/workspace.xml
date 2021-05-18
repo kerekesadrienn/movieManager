@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cae9ca10-fd90-42a9-bc3e-a558eea62fb0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/dao/ActorsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/dao/MovieDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/dao/impl/MovieImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/service/MovieService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/test/java/model/ActorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/artifacts/JavaFXApp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/dataSources/0b8246af-f1b7-4828-9494-814e69916784.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/dataSources/1df56988-9bc9-42d5-8efb-c3e88b50072d.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/dataSources/27364f18-3704-4f68-8fca-b2ddd36b280a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/dataSources/45ef190d-80e6-4177-a5c9-3eb8e32a805e/storage_v2/_src_/schema/SQLJ.XPQmAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/dataSources/45ef190d-80e6-4177-a5c9-3eb8e32a805e/storage_v2/_src_/schema/SYSCS_UTIL.JC_i2A.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/dataSources/45ef190d-80e6-4177-a5c9-3eb8e32a805e/storage_v2/_src_/schema/SYSIBM.hzyvkg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/dataSources/5cc1916a-ed3c-4e51-bc1c-4ab46e1a5cc1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/dataSources/ac947c2a-7ccf-464b-bda1-d7e9fb279877.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/dataSources/f18be31d-ea2a-4181-8baf-9f81a621eed8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__com_fasterxml_classmate_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_6_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__org_apache_derby_derby_10_14_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_13_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_5_2_13_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/RecipeManager.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/derby.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/file.log" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/file.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/README_DO_NOT_TOUCH_FILES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/db.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/dbex.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/log/README_DO_NOT_TOUCH_FILES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/log/log.ctrl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/log/log1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/log/logmirror.ctrl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/README_DO_NOT_TOUCH_FILES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c10.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c101.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c111.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c121.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c130.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c141.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c150.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c161.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c171.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c180.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c191.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c1a1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c1b1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c1c0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c1d1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c1e0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c1f1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c20.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c200.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c211.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c221.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c230.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c241.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c251.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c260.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c271.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c281.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c290.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c2a1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c2b1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c2c1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c2d0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c2e1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c2f0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c300.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c31.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c311.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c321.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c331.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c340.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c351.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c361.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c371.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c380.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c391.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c3a1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c3b1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c3c0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c3d1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c3e1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c3f1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c400.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c41.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c411.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c421.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c430.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c441.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c451.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c461.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c470.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c481.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c500.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c51.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c511.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c520.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c531.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c540.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c551.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c561.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c60.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c71.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c81.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/c90.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/ca1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/cb1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/cc0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/cd1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/ce1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/cf0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/d490.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/d4a1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/d4b0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/d4c1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/d4d0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/d4e1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/seg0/d4f1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/receptKezeloDB/service.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/controller/SearchController.java" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/controller/SearchController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/controller/UploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/controller/UploadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/dao/IngredientsDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/dao/RecipeDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/dao/impl/IngredientsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/dao/impl/ActorsImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/dao/impl/RecipeImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/model/Hozzavalo.java" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/model/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/model/IngredientsType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/model/MealType.java" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/model/Recept.java" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/model/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/service/RecipeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/service/RecipeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/service/MovieServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/utility/DBManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/java/utility/DBManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/resources/search.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/resources/search.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/resources/sidebar.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/resources/sidebar.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/resources/upload.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/main/resources/upload.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/test/java/model/HozzavaloTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/test/java/model/ReceptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/test/java/model/MovieTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/test/java/service/RecipeServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt/src/test/java/service/MovieServiceImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/filmKezeloProjekt/filmkezeloProjekt" />
+  </component>
+  <component name="ProjectId" id="1shjo3AeoGaJROOzPOCGWdLNxzD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cae9ca10-fd90-42a9-bc3e-a558eea62fb0" name="Default Changelist" comment="" />
+      <created>1621331890117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621331890117</updated>
+      <workItem from="1621331892989" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

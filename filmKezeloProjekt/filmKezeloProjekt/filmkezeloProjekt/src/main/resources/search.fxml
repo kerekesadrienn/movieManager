@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="580.0" prefWidth="600.0" style="-fx-background-color: #B0B0B0;" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.SearchController">
+   <children>
+      <Text layoutX="21.0" layoutY="25.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Film keresése:" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="10.0">
+         <font>
+            <Font size="24.0" />
+         </font></Text>
+      <ListView fx:id="movieView" layoutX="14.0" layoutY="237.0" onMouseClicked="#handleClickListView" prefHeight="285.0" prefWidth="200.0" AnchorPane.topAnchor="270.0" />
+      <SplitPane fx:id="splitPane" dividerPositions="0.49056603773584906" layoutX="226.0" layoutY="237.0" orientation="VERTICAL" prefHeight="285.0" prefWidth="360.0" AnchorPane.leftAnchor="226.0" AnchorPane.topAnchor="270.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+               <children>
+                  <TextArea fx:id="getMovieDescription" editable="false" maxWidth="360.0" prefHeight="135.0" prefWidth="360.0" />
+               </children></AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="109.0" prefWidth="358.0">
+               <children>
+                  <TextArea fx:id="getActors" editable="false" maxWidth="360.0" prefHeight="140.0" prefWidth="360.0" />
+               </children></AnchorPane>
+        </items>
+      </SplitPane>
+      <HBox fx:id="hboxPane" layoutX="61.0" layoutY="46.0" maxHeight="140.0" maxWidth="520.0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="140.0" prefWidth="520.0">
+         <children>
+            <VBox fx:id="vboxPane0" prefHeight="200.0" prefWidth="160.0">
+                <HBox.margin>
+                    <Insets left="10.0" />
+                </HBox.margin>
+            </VBox>
+            <VBox fx:id="vboxPane1" prefHeight="134.0" prefWidth="160.0">
+               <HBox.margin>
+                  <Insets left="10.0" />
+               </HBox.margin>
+            </VBox>
+            <VBox fx:id="vboxPane2" prefHeight="200.0" prefWidth="160.0">
+               <HBox.margin>
+                  <Insets left="10.0" />
+               </HBox.margin>
+            </VBox>
+         </children>
+      </HBox>
+      <ImageView accessibleRole="BUTTON" fitHeight="26.0" fitWidth="40.0" layoutX="10.0" layoutY="46.0" onMouseClicked="#addSearchField" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@icon/plus_PNG61.png" />
+         </image>
+      </ImageView>
+      <Text fx:id="warningMessage" layoutX="10.0" layoutY="570.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-fill: Red;" wrappingWidth="564.0" />
+      <ImageView accessibleRole="BUTTON" fitHeight="26.0" fitWidth="40.0" layoutX="17.0" layoutY="80.0" onMouseClicked="#searchItems" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@icon/Search-icon.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="15.0" layoutY="202.0" text="Kategória" AnchorPane.leftAnchor="15.0" />
+      <CheckBox fx:id="checkBox1" layoutX="83.0" layoutY="203.0" mnemonicParsing="false" />
+      <CheckBox fx:id="checkBox2" layoutX="163.0" layoutY="202.0" mnemonicParsing="false" />
+      <CheckBox fx:id="checkBox3" layoutX="254.0" layoutY="204.0" mnemonicParsing="false" />
+      <CheckBox fx:id="checkBox4" layoutX="368.0" layoutY="203.0" mnemonicParsing="false" />
+      <CheckBox fx:id="checkBox5" layoutX="83.0" layoutY="235.0" mnemonicParsing="false" />
+      <CheckBox fx:id="checkBox6" layoutX="163.0" layoutY="235.0" mnemonicParsing="false" />
+      <CheckBox fx:id="checkBox7" layoutX="254.0" layoutY="235.0" mnemonicParsing="false" />
+      <CheckBox fx:id="checkBox8" layoutX="368.0" layoutY="235.0" mnemonicParsing="false" />
+      <Button layoutX="452.0" layoutY="208.0" mnemonicParsing="false" onAction="#filter" prefHeight="26.0" prefWidth="121.0" text="Szűrés Kategória szerint">
+         <font>
+            <Font size="9.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

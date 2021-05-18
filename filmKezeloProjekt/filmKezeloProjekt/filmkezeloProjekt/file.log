@@ -1,0 +1,866 @@
+5424 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+16568 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+50321 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+50342 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+51627 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+51632 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+53798 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+6308 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+24173 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+9797 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+37513 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+50166 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+50179 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+65623 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+65632 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+72453 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+72455 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+74197 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+74422 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+74605 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+74789 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+74966 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+75158 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+75349 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+75550 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+75742 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+75942 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+76157 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+76350 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+76557 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+76765 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+76974 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+76976 [JavaFX Application Thread] WARN  controller.UploadController - Tried to add new TextField more than 13 
+77175 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+77176 [JavaFX Application Thread] WARN  controller.UploadController - Tried to add new TextField more than 13 
+77406 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+77407 [JavaFX Application Thread] WARN  controller.UploadController - Tried to add new TextField more than 13 
+80542 [JavaFX Application Thread] INFO  controller.UploadController - Deleted the last TextField 
+81342 [JavaFX Application Thread] INFO  controller.UploadController - Deleted the last TextField 
+81549 [JavaFX Application Thread] INFO  controller.UploadController - Deleted the last TextField 
+81734 [JavaFX Application Thread] INFO  controller.UploadController - Deleted the last TextField 
+82301 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+82306 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+82948 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+82950 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+105710 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+106022 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+106246 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+106454 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+148246 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+160129 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+284504 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+285017 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+319097 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+332921 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+343081 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+359347 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+464870 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+465878 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+466142 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+502470 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+542608 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+656285 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+5755 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+16039 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+31851 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+2163 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+10253 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+18614 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+18669 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+37275 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+49495 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+61383 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+63214 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+63220 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+64556 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+64924 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+72667 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+73057 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+76628 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT1 recipe 
+78443 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [FŐÉTEL] 
+81138 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS] 
+83634 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+85609 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [ZÖLDSÉG, TEJTERMÉK] 
+87913 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [FŐÉTEL, ELŐÉTEL] 
+90056 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [FŐÉTEL, ELŐÉTEL, ELŐÉTEL] 
+92313 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT1 recipe 
+95880 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [FŐÉTEL, ELŐÉTEL, ELŐÉTEL, FŐÉTEL] 
+97711 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [FŐÉTEL, ELŐÉTEL, ELŐÉTEL, FŐÉTEL, DESSZERT] 
+116622 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT1 recipe 
+119117 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [FŐÉTEL, ELŐÉTEL, ELŐÉTEL, FŐÉTEL, DESSZERT, LEVES] 
+123302 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+2379 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+7859 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+11902 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+12082 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+20493 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+21251 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+23821 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [LEVES] 
+27091 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [LEVES, FŐÉTEL] 
+30498 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [LEVES, FŐÉTEL, ELŐÉTEL] 
+34632 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [LEVES, FŐÉTEL, ELŐÉTEL, LEVES] 
+37823 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [LEVES, FŐÉTEL, ELŐÉTEL, LEVES, FŐÉTEL] 
+40934 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [LEVES, FŐÉTEL, ELŐÉTEL, LEVES, FŐÉTEL] 
+43437 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [LEVES, FŐÉTEL, ELŐÉTEL, LEVES, FŐÉTEL] 
+44775 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT1 recipe 
+45390 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT1 recipe 
+45958 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT1 recipe 
+84781 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+1356 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+8059 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+12722 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+12968 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+20784 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+21536 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+23408 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [LEVES] 
+27055 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [LEVES, LEVES] 
+79297 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [LEVES, LEVES, FŐÉTEL] 
+82929 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [LEVES, LEVES, FŐÉTEL, LEVES] 
+89321 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [LEVES, LEVES, FŐÉTEL, LEVES, ELŐÉTEL] 
+91328 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [LEVES, LEVES, FŐÉTEL, LEVES, ELŐÉTEL, DESSZERT] 
+1385 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+7997 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+13595 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+13779 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+22626 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+23841 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+26794 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [FŐÉTEL] 
+28641 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [LEVES] 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         5805 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+15482 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+51206 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+51219 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+79779 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+85569 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+91237 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+91252 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+92365 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+92647 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+99161 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+99530 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+103100 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [FŐÉTEL] 
+107493 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [FŐÉTEL, LEVES] 
+112676 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS] 
+118099 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+124767 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT2 recipe 
+128715 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+130786 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+1116 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+7289 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+11475 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+11758 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+18384 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+19145 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+24113 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+34491 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+1408 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+6858 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+10740 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+10761 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+13701 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+14412 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+22052 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+22792 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+26883 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+34022 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [FŐÉTEL] 
+38972 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+56153 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+1289 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+7087 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+13511 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+13791 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+20296 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+21116 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+25510 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [TEJTERMÉK] 
+28747 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS] 
+32925 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+35249 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT2 recipe 
+43767 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, TEJTERMÉK] 
+64032 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+1510 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+7146 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+11237 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+11520 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+17885 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+18740 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+22060 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+25779 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT1 recipe 
+27088 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT2 recipe 
+30500 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+1551 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+7035 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+10412 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+10628 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+16453 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+17297 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+20577 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+25513 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [ZÖLDSÉG, TEJTERMÉK] 
+27624 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+1256 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+6858 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+11269 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+11687 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+20126 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+20842 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+23628 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, TEJTERMÉK] 
+27929 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+30531 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [GYÜMÖLCS] 
+32781 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+1451 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+7164 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+11065 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+11346 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+21385 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+22139 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+26091 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+30746 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG, TEJTERMÉK] 
+36167 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+36190 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+49968 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+62326 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+64419 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+64421 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+65698 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+65979 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+71358 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+71467 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+75189 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [ZÖLDSÉG] 
+79337 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [ZÖLDSÉG, TEJTERMÉK] 
+83108 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG, TEJTERMÉK] 
+89044 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+95883 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT1 recipe 
+97762 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT2 recipe 
+98917 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT3 recipe 
+101631 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+1450 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+7176 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+16254 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+16534 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+23650 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+24408 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+28800 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+40010 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS] 
+44520 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+1464 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+6909 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+11138 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+11734 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+18026 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+18820 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+28167 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+4499 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+21041 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+27809 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+27829 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+31097 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+31102 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+32557 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+32849 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+39902 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+42239 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+55022 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+65690 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [FŐÉTEL] 
+70829 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS] 
+74985 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+3053 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+9270 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+14698 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+15035 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+26286 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+27149 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+31322 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS] 
+35037 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+58930 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+66026 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+1876 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+8055 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+12283 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+12552 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+21879 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+22769 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+30756 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+30884 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+36586 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+36697 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+41621 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [TEJTERMÉK] 
+48596 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS] 
+50486 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT1 recipe 
+52706 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT2 recipe 
+54150 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT3 recipe 
+64590 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+1416 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+8108 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+12671 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+12992 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+22058 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+22944 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+25268 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS] 
+30414 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+33487 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT1 recipe 
+35084 [JavaFX Application Thread] INFO  controller.SearchController - Choose the RECEPT2 recipe 
+38829 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+1522 [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+7617 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+12156 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+12369 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+21958 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+22838 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+27120 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [HÚS, ZÖLDSÉG] 
+30612 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+287  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1818 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+8357 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+9661 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+10157 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+34653 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [FŐÉTEL] 
+50037 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+50038 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+59279 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+59280 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+60462 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+60463 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+60907 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+60909 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+69125 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+82380 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+86388 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+86389 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+87829 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+92525 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+92534 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+97319 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+97319 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+100450 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+100451 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+108797 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+118485 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+125701 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+132717 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+151709 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+155591 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+155591 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+156565 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+160117 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+163892 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+167421 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+181565 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [DESSZERT] 
+185540 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+185540 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+186036 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+186036 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+187451 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+187451 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+189603 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+189603 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+190645 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+190901 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+191853 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+198869 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+205229 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [DESSZERT] 
+211429 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [DESSZERT] 
+224813 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [TEJTERMÉK] 
+225669 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [] 
+258  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+363237 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+255  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+250  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1767 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+5748 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+5749 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+6229 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+6231 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+47131 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+251  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1838 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+3398 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+3400 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+3933 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+3936 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+4233 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+4234 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+4822 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+4822 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+5567 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+5567 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+145484 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+255  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1830 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+6279 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+290  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1844 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+12551 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+12554 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+24872 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+37336 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+48925 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+57004 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+57005 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+58424 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+66081 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+66087 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+73576 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+77033 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+77037 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+77993 [JavaFX Application Thread] INFO  controller.SearchController - Choose the PALACSINTA recipe 
+78168 [JavaFX Application Thread] INFO  controller.SearchController - Choose the PALACSINTA recipe 
+89321 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [DESSZERT] 
+92016 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [ELŐÉTEL] 
+93952 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [DESSZERT] 
+123264 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+123265 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+132136 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+133856 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+134024 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+141296 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+161585 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+325  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+2224 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+4417 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+4420 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+12617 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+250  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1808 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+3686 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+3688 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+10335 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+250  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1801 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+3278 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+3280 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+4422 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+9710 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+253  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1784 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+3691 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+3694 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+5636 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+8036 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+8228 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+24630 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+250  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+252  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1841 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+3585 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+3588 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+19029 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+61534 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+253  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1918 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+3400 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+3402 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+18336 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+21744 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+25140 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+47298 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+47298 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+65774 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+65775 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+67400 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+67401 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+90845 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+90846 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+97960 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+252  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1927 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+3786 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+3788 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+5191 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+5192 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+9709 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [VÍGJÁTÉK] 
+13932 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the recipes: [VÍGJÁTÉK] 
+19474 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+19475 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+21076 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+21077 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+27020 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+45663 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+255  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+2049 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+3733 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+3736 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+21399 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+23630 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+25687 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+29297 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+33489 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+33490 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+34655 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+41238 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+41245 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+50479 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+54351 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+57927 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the recipes 
+57931 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+58823 [JavaFX Application Thread] INFO  controller.SearchController - Choose the CSILLAGOK KÖZÖTT recipe 
+97526 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+252  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1956 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+4357 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+4358 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+5313 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+5316 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+6127 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+6128 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+12332 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+250  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1915 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+5640 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+252  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1913 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+12013 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+12017 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+13442 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+13443 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+18893 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+18893 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+19743 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+19744 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+21138 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+22896 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+22896 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+29210 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+29210 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+34618 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+35803 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+36218 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+36426 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+36594 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+36786 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+36986 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+37163 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+37346 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+37530 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+37714 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+37898 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+38091 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+38290 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+38467 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+38658 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+38659 [JavaFX Application Thread] DEBUG controller.SearchController - Tried to add more TextField than 15 
+46770 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [] 
+60032 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+280  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1939 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+3709 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+3712 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+11465 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+13457 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+15302 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+15303 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+17176 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+28656 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+31032 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [] 
+35911 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+35915 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+38816 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+40736 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [DRÁMA] 
+42824 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+50492 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+50493 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+51543 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+54903 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+54908 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+57063 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+57064 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+64327 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+76653 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+78373 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+78373 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+78797 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+78797 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+79839 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+81599 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+81606 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+84480 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+86911 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [DRÁMA] 
+89423 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+89429 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+90327 [JavaFX Application Thread] INFO  controller.SearchController - Choose the VALAMI2 recipe 
+91399 [JavaFX Application Thread] INFO  controller.SearchController - Choose the VALAMI recipe 
+94143 [JavaFX Application Thread] INFO  controller.SearchController - Choose the VALAMI recipe 
+94527 [JavaFX Application Thread] INFO  controller.SearchController - Choose the VALAMI2 recipe 
+95039 [JavaFX Application Thread] INFO  controller.SearchController - Choose the VALAMI recipe 
+98407 [JavaFX Application Thread] INFO  controller.SearchController - Choose the VALAMI recipe 
+98928 [JavaFX Application Thread] INFO  controller.SearchController - Choose the VALAMI2 recipe 
+102735 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+105805 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+250  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1937 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+4387 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+4389 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+10798 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+13026 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+22910 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+24550 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+25492 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+25493 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+27198 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+33638 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK, DRÁMA] 
+36547 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+36548 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+43270 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+45927 [JavaFX Application Thread] WARN  controller.UploadController - Empty description field 
+45927 [JavaFX Application Thread] WARN  controller.UploadController - The list of ingredients are empty 
+49735 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+50827 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+50827 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+53262 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+57845 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+60542 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [DRÁMA] 
+63014 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+64045 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+253  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1901 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+3471 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+3473 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+7227 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+8883 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+15690 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+18803 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+20203 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+20203 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+22274 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+25363 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+29842 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK, DRÁMA] 
+253  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1923 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+6290 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+24058 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+24961 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [] 
+26122 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [] 
+29913 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+32226 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+32227 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+35442 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+35443 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+42249 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+42250 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+45238 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+45240 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+48096 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+251  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1936 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+4571 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+4573 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+9420 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+11100 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+11961 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+11962 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+14364 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+40741 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+254  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1932 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+4240 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+4242 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+8514 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+10633 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+12273 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+12273 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+14626 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+23362 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+23363 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+31554 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+33809 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+35144 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+35145 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+37627 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+39922 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK, DRÁMA] 
+43058 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [DRÁMA] 
+52538 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+63297 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+254  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+1941 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+3587 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+3590 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+6924 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+34889 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+37859 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+37860 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+41827 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+41834 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+43460 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+45035 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+45041 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+49371 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+49371 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+55900 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+61115 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+62362 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+62362 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+63308 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+64988 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+64996 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+66004 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+68940 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+68952 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+72235 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+72249 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+72899 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+72917 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+73299 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+73320 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+73659 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+73681 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+73860 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+73888 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+74092 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+74123 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+74275 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+74307 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+74468 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+74498 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+74660 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+74692 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+74884 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+74918 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+75084 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+75122 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+80539 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+80579 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+90235 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+90277 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+92603 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+92646 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+98212 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+98255 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+99588 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+239  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3948 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+13150 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+13153 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+18891 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+318  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3738 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+8815 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+8818 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+37965 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+66717 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+78626 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+78626 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+80750 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+88738 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [] 
+101564 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [] 
+104072 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+104075 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+132507 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [HORROR] 
+138990 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [] 
+142153 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [] 
+146358 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+155426 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [HORROR] 
+170905 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+170910 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+174310 [JavaFX Application Thread] INFO  controller.SearchController - Choose the PARANORMAL recipe 
+179198 [JavaFX Application Thread] INFO  controller.SearchController - Choose the PARANORMAL recipe 
+191978 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+191979 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+203565 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+203566 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+212382 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [VÍGJÁTÉK] 
+218582 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+226185 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+226187 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+253336 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+227  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3505 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+8339 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+421  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+5523 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+24989 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [THRILLER] 
+35542 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+235  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3697 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+31123 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+31127 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+37108 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+65231 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+80406 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+85901 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+438  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+5887 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+12539 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+12543 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+24673 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+29532 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+32574 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+32575 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+34738 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+34747 [JavaFX Application Thread] INFO  controller.SearchController - The search was unsuccessfully 
+37540 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+41963 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [] 
+51823 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [] 
+54507 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+54511 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+60473 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+60479 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+63381 [JavaFX Application Thread] INFO  controller.SearchController - Choose the HELLO recipe 
+67129 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+236  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+4687 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+8800 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+8804 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+17610 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for ingredients 
+21657 [JavaFX Application Thread] INFO  controller.UploadController - Add a recipe successfully! 
+27300 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+27301 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+30609 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+37058 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+37066 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+39170 [JavaFX Application Thread] INFO  controller.SearchController - Choose the ASD recipe 
+43094 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+236  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3939 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+8987 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+8991 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+35208 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+46972 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+50268 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+50269 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+52570 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+61076 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+61084 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+64228 [JavaFX Application Thread] INFO  controller.SearchController - Choose the STAR WARS recipe 
+81097 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+81101 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+83397 [JavaFX Application Thread] INFO  controller.SearchController - Choose the STAR WARS recipe 
+93548 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [SCIFI] 
+96046 [JavaFX Application Thread] INFO  controller.SearchController - Choose the STAR WARS recipe 
+100796 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+404  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+5533 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+42602 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+237  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3776 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+8330 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+8333 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+26927 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+31064 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+46687 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+51763 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+63188 [JavaFX Application Thread] WARN  controller.UploadController - Tried to upload a movie without actors 
+65236 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+69425 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+69426 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+71594 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+83544 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+83553 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+85443 [JavaFX Application Thread] INFO  controller.SearchController - Choose the HELLO movie 
+95099 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+95107 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+96807 [JavaFX Application Thread] INFO  controller.SearchController - Choose the HELLO movie 
+104909 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [AKCIÓ] 
+109520 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [] 
+115880 [JavaFX Application Thread] INFO  controller.SearchController - Filtered the movies: [AKCIÓ] 
+130176 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 
+270  [JavaFX Application Thread] INFO  app.Main - The app is started ... 
+3796 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+7318 [JavaFX Application Thread] INFO  controller.SidebarController - Load the upload scene 
+7321 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the upload scene 
+13787 [JavaFX Application Thread] INFO  controller.UploadController - Add a new TextField for actors 
+15851 [JavaFX Application Thread] INFO  controller.UploadController - Added movie  successfully! 
+18947 [JavaFX Application Thread] INFO  controller.SidebarController - Load the search scene 
+18948 [JavaFX Application Thread] INFO  controller.SidebarController - Choose the search scene 
+21029 [JavaFX Application Thread] INFO  controller.SearchController - Add a new TextField for search ... 
+25097 [JavaFX Application Thread] INFO  controller.SearchController - Searched for the movies 
+25125 [JavaFX Application Thread] INFO  controller.SearchController - The search was successfully 
+28618 [JavaFX Application Thread] INFO  controller.SidebarController - Closed the app 

@@ -1,0 +1,43 @@
+<configuration scan="false">
+
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%-4relative [%thread] %-5level %logger{35} - %msg %n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <file>file.log</file>
+        <filter>
+            <level>ERROR</level>
+            <level>TRACE</level>
+            <level>INFO</level>
+            <level>DEBUG</level>
+        </filter>
+        <encoder>
+            <pattern>%-4relative [%thread] %-5level %logger{35} - %msg %n</pattern>
+        </encoder>
+    </appender>
+
+    <root level="INFO">
+        <appender-ref ref="STDOUT" />
+    </root>
+
+    <logger name="controller.SidebarController" level="ALL" addictivity="true">
+        <appender-ref ref="FILE" />
+    </logger>
+
+    <logger name="app.Main" level="ALL" addictivity="true">
+        <appender-ref ref="FILE" />
+    </logger>
+
+    <logger name="controller.SearchController" level="ALL" addictivity="true">
+        <appender-ref ref="FILE" />
+    </logger>
+
+    <logger name="controller.UploadController" level="ALL" addictivity="true">
+        <appender-ref ref="FILE" />
+    </logger>
+
+
+</configuration>
